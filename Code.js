@@ -1,6 +1,6 @@
 // application setting
 const APPCONFIG = {
-  IDConnectSheet:"1IDOgMesMRBQqXRpoOI4BNV1fO3yeHg6PzbH9CB_JrCk",
+  IDConnectSheet:"1IDOgMesMRB5QqXRpoOI4BNV1fO3yeHg6PzbH984B_JrCk",
   sheetName:["record","employ","building","issue"]
 }
 
